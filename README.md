@@ -2,7 +2,7 @@
 UK Train Rides Data Analysis
 In an increasingly urbanized and mobile society, efficient rail transportation is critical to economic vitality and commuter satisfaction. The UK rail network, serving millions annually, is a complex ecosystem involving infrastructure, customer behavior, weather dynamics, and financial performance.
 This analysis aims to provide a comprehensive view of train operations, focusing on three essential pillars
-Financial Performance and Ticketing Strategy
+Financial Performance and Ticketing Strategy.
 The Revenue Analysis dissects earnings across different ticket types, classes, and channels (online vs on-station). It also highlights the role of promotional programs like railcards and offers a path toward maximizing profitability while enhancing service accessibility.
 Passenger Behavior and Demand Patterns
 The Passenger Flow section maps out when and where people are traveling. It reveals commuter peaks, popular departure hubs, and demand cycles based on time of day and week. This helps identify scheduling and staffing priorities.
